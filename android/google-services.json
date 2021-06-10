@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414658730185",
+    "project_id": "petal-maps---uruguay",
+    "storage_bucket": "petal-maps---uruguay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414658730185:android:e40de3a893e42dfb5f1518",
+        "android_client_info": {
+          "package_name": "com.example.petal_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414658730185-0qsvhvc10eeho24133hc9k1mk603nl77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcf4yoELJsbnzacKwBHdvYrvSexMWxVt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414658730185-0qsvhvc10eeho24133hc9k1mk603nl77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
